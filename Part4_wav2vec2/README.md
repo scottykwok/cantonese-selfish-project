@@ -1,4 +1,4 @@
-# Part4 - 廣東話語音辨識
+# Part4 - 廣東話語音辨識 using wav2vec2
 
 ## Run Inference
 * Run wav2vec2 English
