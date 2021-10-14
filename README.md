@@ -11,5 +11,5 @@ Materials for PYCON HK 2021 Cantonese Selfish Project 廣東話自肥企劃
 * [Cantonese ASR using Wav2vec2-xlsr Cantonese Finetune, CER=16%](https://youtu.be/k_9RQ-ilGEc)
 
 # Presentation Slides
-[Presentation Slides PDF](Presentation_at_PyConHK_2021.pdf)
-![Screenshot](banner.png)
+[![Screenshot](banner.png)](Presentation_at_PyConHK_2021.pdf)
+
