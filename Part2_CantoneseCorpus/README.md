@@ -4,7 +4,7 @@
 
 |收集年份 Year | 名 Name | License 版權 | 語音參與者 Voice Participants | 連結 Link|
 |-------------|--------| ----------- | -----------------------------| ---------|
-|1950 - 1970 | 香港二十世紀中期語料庫 | ( ? ) | 21套50-60年代粵語長片 | <sub>  https://hkcc.eduhk.hk/v1/introduction.html |
+|1950 - 1970 | 香港二十世紀中期語料庫 | ( ? ) | 60套 50-60年代粵語長片 | <sub>  https://hkcc.eduhk.hk/ |
 |1994 | Lee / Wong / Leung Corpus | For academic research | 8 位兒童 | <sub> https://childes.talkbank.org/access/Chinese/Cantonese/LeeWongLeung.html |
 |1997 - 1998 | 香港粵語語料庫 (HKCanCor) | CC-BY | 93段 2至4人的對話 | <sub> http://compling.hss.ntu.edu.sg/hkcancor/ |
 |2004 | CUCorpora | 🤑 🤑 🤑  | 80人 |<sub> http://dsp.ee.cuhk.edu.hk/license_cucorpora.php |
